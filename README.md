@@ -1,6 +1,6 @@
 #Oblique Strategies
 
-This is a webpage that generates new words evrytime you click the 'GO!' button. 
+This is a webpage that generates new words evrytime you click the 'GO!' button. I used a monkey called monty to spread the motivation :D
 
 ![img](https://c1.staticflickr.com/9/8625/28568075700_19d3b79084_o.png)
 
